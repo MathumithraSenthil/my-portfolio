@@ -8,7 +8,7 @@ WORKDIR /app
 COPY target/Email-0.0.1-SNAPSHOT.jar app.jar
 
 # Expose port
-EXPOSE 8080
+EXPOSE 9887
 
 # Run the JAR
 ENTRYPOINT ["java", "-jar", "app.jar"]
