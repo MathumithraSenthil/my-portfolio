@@ -4,6 +4,8 @@ FROM openjdk:17-jdk-slim
 # Set working directory
 WORKDIR /app
 
+RUN ./mvnw clean install
+
 # Copy the jar file (adjust name as needed)
 COPY target/Email-0.0.1-SNAPSHOT.jar app.jar
 
