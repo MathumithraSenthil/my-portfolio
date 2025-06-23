@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\spring\workspace\sb01\Email"/>
 			<item value="C:\Users\mathu\OneDrive\Documents\placement\portfolio\Backend\Email"/>
 		</list>
 		<list key="projectNameTemplate">
