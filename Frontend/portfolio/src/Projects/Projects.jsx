@@ -11,7 +11,7 @@ const Projects = () => {
   return (
     <div class="container-fluid pb-4 ">
          <div className='text-center align-items-center'>
-        <p class="fs-1 p-3 text-white" style={{textShadow: "3px 3px 5px rgba(0, 0, 0)",fontFamily: "Cinzel"}}>Projects</p>
+        <p class="fs-1 text-white" style={{textShadow: "3px 3px 5px rgba(0, 0, 0)",fontFamily: "Cinzel"}}>Projects</p>
         </div>
          
         <div className='text-center align-items-center'>
@@ -27,7 +27,7 @@ const Projects = () => {
                 <div class="card-body">
                     <p class="card-title title_hover fs-3 text-dark text-center" style={{textShadow: "2px 2px 1px rgba(0, 0, 0, 0.4)",fontFamily: "Cormorant"}}>Web Development</p>
                     <p class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>Developed a Home Interior Design Management System using HTML, CSS, Javascript and MySQL, enabling users to discover and connect with interior designers, painters, and decorators through a centralized, user-friendly platform.</p>
-                    <p class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}><strong>Stack:</strong><br/> PHP, CSS, Javascript, MySQL</p>
+                    <p class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}><strong>Stack:</strong><br/> HTML, CSS, Javascript, MySQL</p>
                 </div>
             </div>
           </div>
@@ -45,7 +45,7 @@ const Projects = () => {
       </div>
 
       <div className='text-center align-items-center'>
-        <p class="fs-2 p-5 text-dark" style={{textShadow: "2px 2px 1px rgba(0, 0, 0, 0.4)",fontFamily: "Cormorant"}}>Assignment Project</p>
+        <p class="fs-2 p-4 text-dark" style={{textShadow: "2px 2px 1px rgba(0, 0, 0, 0.4)",fontFamily: "Cormorant"}}>Independent Project</p>
       </div>
 
       <div className="container">
@@ -67,7 +67,7 @@ const Projects = () => {
                 <div class="card-body">
                     <p class="card-title fs-3 text-dark text-center" style={{textShadow: "2px 2px 1px rgba(0, 0, 0, 0.4)",fontFamily: "Cormorant"}}>Armory vault</p>
                     <p class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>Designed a static e-commerce website using HTML and CSS, featuring a responsive layout, product listings, navigation menus, and styled UI components, created as part of my exploration in web design and user interface principles.</p>
-                    <p class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}><strong >Stack:</strong><br/> HTML, CSS, Javascript</p> 
+                    <p class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}><strong >Stack:</strong><br/> HTML, CSS</p> 
                 </div>
             </div>
           </div>

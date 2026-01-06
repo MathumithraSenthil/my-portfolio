@@ -36,7 +36,7 @@ const Contact = () => {
   return (
     <div className="container-fluid pb-4" style={{ backgroundColor: 'rgba(136, 126, 119, 0.91)' }}>
       <div className='text-center align-items-center'>
-        <p className="fs-1 p-5 text-white" style={{ textShadow: "3px 3px 5px rgba(0, 0, 0)", fontFamily: "Cinzel" }}>
+        <p className="fs-1 p-4 text-white" style={{ textShadow: "3px 3px 5px rgba(0, 0, 0)", fontFamily: "Cinzel" }}>
           Contact
         </p>
       </div>

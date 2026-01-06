@@ -5,7 +5,7 @@ const Skills = () => {
   return (
     <div class="container-fluid pb-4 " >
         <div className='text-center align-items-center'>
-        <p class="fs-1 pb-3 text-white" style={{textShadow: "3px 3px 5px rgba(0, 0, 0)",fontFamily: "Cinzel"}}>skills</p>
+        <p class="fs-1 p-3 text-white" style={{textShadow: "3px 3px 5px rgba(0, 0, 0)",fontFamily: "Cinzel"}}>skills</p>
         </div>
          
       <div className="container">
@@ -22,10 +22,10 @@ const Skills = () => {
           </div>
           <div className="col-md-5 d-flex">
             <div className="card card-hover flex-fill text-center p-3">
-              <p class="card-title fs-4 fw-light text-dark" style={{textShadow: "2px 2px 2px rgba(0, 0, 0, 0.4)",fontFamily: "Cinzel"}}>Web Development</p>
+              <p class="card-title fs-4 fw-light text-dark" style={{textShadow: "2px 2px 2px rgba(0, 0, 0, 0.4)",fontFamily: "Cinzel"}}>Backend Development</p>
               <p class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>
-                Web development is where creativity meets logic—it's how I bring ideas to life and turn
-                designs into dynamic, functional experiences.
+                Backend development is where I focus on building reliable and scalable systems. 
+                I enjoy designing clean APIs, structuring data efficiently, and ensuring that applications remain stable, secure, and easy to maintain as they grow.
               </p>
             </div>
           </div>
@@ -39,26 +39,26 @@ const Skills = () => {
       <div className="container">
         <div className="row justify-content-center align-items-stretch g-4">
         
-          <div className="col-md-5 d-flex">
+          <div className="col-md-3 d-flex">
             <div className="card card-hover flex-fill text-center p-3">
               <p class="card-title fs-4 fw-light text-dark" style={{textShadow: "2px 2px 2px rgba(0, 0, 0, 0.4)",fontFamily: "Cinzel"}}>Front End</p>
-              <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>HTML</span>
+              <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>HTML </span>
               <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>CSS</span>
               <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>JavaScript</span>
               <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>ReactJs</span>
               <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>Bootstrap</span>
             </div>
           </div>
-          <div className="col-md-5 d-flex">
+          <div className="col-md-3 d-flex">
             <div className="card card-hover flex-fill text-center p-3">
               <p class="card-title fs-4 fw-light text-dark" style={{textShadow: "2px 2px 2px rgba(0, 0, 0, 0.4)",fontFamily: "Cinzel"}}>Back End</p>
-              <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>Java (Spring Boot)</span>
+              <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>Java</span>
+              <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>Spring Boot</span>
               <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>REST APIs</span>
               <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>Spring MVC</span>
-              <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>Microservices</span>
             </div>
           </div>
-          <div className="col-md-5 d-flex">
+          <div className="col-md-3 d-flex">
             <div className="card card-hover flex-fill text-center p-3">
               <p class="card-title fs-4 fw-light text-dark" style={{textShadow: "2px 2px 2px rgba(0, 0, 0, 0.4)",fontFamily: "Cinzel"}}>DataBase Management</p>
               <span class="card-text fs-5 text-dark" style={{fontFamily: "Cormorant"}}>MySQL</span>

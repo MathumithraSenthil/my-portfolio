@@ -3,9 +3,9 @@ import React from 'react'
 const Education = () => {
 
   return (
-    <div class="container-fluid p-4 " >
+    <div class="container-fluid p-4 ">
         <div className='text-center align-items-center'>
-        <p class="fs-1 text-white" style={{textShadow: "3px 3px 5px rgba(0, 0, 0)",fontFamily: "Cinzel"}}>education</p>
+        <p class="fs-1 text-white" style={{textShadow: "3px 3px 5px rgb(0,0,0)",fontFamily: "Cinzel"}}>education</p>
         </div>
         <div className="d-flex container pt-4 pb-2 w-80 justify-content-center" >
 
