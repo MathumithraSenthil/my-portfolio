@@ -21,12 +21,6 @@ Hi! I’m Mathumithra, a Fresher Java Full Stack Developer passionate about buil
 
 ---
 
-## Achievements
-
-- **TCS NQT IT**: Programming – 97.59%, Advanced Quantitative & Reasoning – 85.32%, Cognitive – 75.57%
-
----
-
 ## Contact
 
 - **Email:** mathumithrasenthil2812@example.com  
